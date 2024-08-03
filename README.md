@@ -1,4 +1,4 @@
-# dsan6500_project
+# Classifying Chest X-Rays Into Disease Categories
 
 Chest X-rays (CXRs) are one of the most powerful tools a doctor has. They are a reliable method of observing the structures and organs in a patient’s chest, as well as faster and cheaper than other imaging methods, such as a Computer Tomography (CT) scan, which makes them the most popular method of chest imaging available. CXRs can identify infections, cancer, lung conditions, heart-related issues, lung problems, and more. Heart and lung illnesses can often be severe or lead to severe health problems, so quickly identifying and diagnosing potential illnesses is integral to a positive health outcome. 
 
